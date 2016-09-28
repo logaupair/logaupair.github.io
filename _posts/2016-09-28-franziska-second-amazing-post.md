@@ -1,5 +1,5 @@
 ---
-bg: „kinder.jpg"
+bg: "kinder.jpg"
 layout: post
 title:  „Zweiter Post„
 crawlertitle: "Test Blog"
