@@ -1,14 +1,17 @@
 ---
-bg: "kinder.jpg"
+title: "„Zweiter Post„"
+date: 2016-09-28 13:09:47 Z
+categories:
+- posts
+tags:
+- Test
+bg: kinder.jpg
 layout: post
-title:  „Zweiter Post„
-crawlertitle: "Test Blog"
-summary: "Das ist eher fürs Archive"
-date:   2016-09-28 20:09:47 +0700
-categories: posts
-tags: ['Test']
+crawlertitle: Test Blog
+summary: Das ist eher fürs Archive
 author: awesome Franz
 ---
+
 Yo was geht ab girls YOLO
 
 

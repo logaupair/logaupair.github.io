@@ -1,10 +1,10 @@
 ---
-bg: "logaupairbg.jpg"
+title: Archive
+permalink: "/posts/"
+bg: logaupairbg.jpg
 layout: page
-permalink: /posts/
-title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
+crawlertitle: All articles
+summary: Posts about jekyll
 active: archive
 ---
 

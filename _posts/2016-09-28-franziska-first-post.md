@@ -1,14 +1,17 @@
 ---
-bg: "wroclaw-rynek.jpg"
+title: Mein erster Post
+date: 2016-09-28 13:09:47 Z
+categories:
+- posts
+tags:
+- Test
+bg: wroclaw-rynek.jpg
 layout: post
-title:  "Mein erster Post"
-crawlertitle: "Test Blog"
-summary: "Das ist eher fürs Archive"
-date:   2016-09-28 20:09:47 +0700
-categories: posts
-tags: ['Test']
+crawlertitle: Test Blog
+summary: Das ist eher fürs Archive
 author: jacmendt
 ---
+
 To all the ladies in the place with style and grace
 Allow me to lace these lyrical duches in your bushes
 Who rock grooves and make moves with all the mommies?

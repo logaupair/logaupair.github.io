@@ -1,10 +1,10 @@
 ---
-bg: "blogabout.jpg"
+title: About
+permalink: "/about/"
+bg: blogabout.jpg
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
-permalink: /about/
-summary: "About this blog"
+crawlertitle: Why and how this blog was created
+summary: About this blog
 active: about
 ---
 
