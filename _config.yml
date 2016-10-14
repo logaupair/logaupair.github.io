@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   ——BESCHREIBUNG AUSDENKEN—
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "logaupair.github.io" # the base hostname & protocol for your site 
+url: "" # the base hostname & protocol for your site
 github_username: logaupair
 disqus_username: logaupair-github-io
 
