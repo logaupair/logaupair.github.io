@@ -9,12 +9,12 @@ collections:
     title: Uploads
     output: true
 email: franziska.klamm@googlemail.com
-description: 'Speech therapist in Mamaroneck, NY
+description: '12 months as a speech therapist / aupair in the US
 
 '
-baseurl: ''
+baseurl: 
 lang: en
-url: ''
+url: 
 github_username: logaupair
 disqus_username: logaupair-github-io
 markdown: kramdown
@@ -34,3 +34,4 @@ sass:
   sass_dir: assets/_sass
 images: "/assets/images"
 social: 
+Field name: 
