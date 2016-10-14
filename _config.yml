@@ -6,16 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: LOGAUPAIR
-email: your-email@domain.com
+title: LogAupair
+email: franziska.klamm@googlemail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ——BESCHREIBUNG AUSDENKEN—
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "" # the base hostname & protocol for your site
-twitter_username: 
+url: "logaupair.github.io" # the base hostname & protocol for your site 
 github_username: logaupair
 disqus_username: logaupair-github-io
 
@@ -44,11 +41,3 @@ sass:
 images: '/assets/images'
 
 social:
-  - name: Twitter
-    icon: twitter
-    username: "@jacmendt"
-    url: https://twitter.com/jacmendt
-    desc: Follow me on Twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
