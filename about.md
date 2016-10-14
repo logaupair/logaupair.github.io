@@ -8,4 +8,4 @@ active: about
 layout: page
 ---
 
-Speech Therapist blabla
+German speech therapist sharing her experiences as an aupair in the US
