@@ -2,10 +2,10 @@
 title: Archive
 permalink: "/posts/"
 bg: archiv.jpg
-layout: page
-crawlertitle: All articles
-summary: Posts about jekyll
+crawlertitle: All articles of LogAupair
+summary: All articles of LogAupair
 active: archive
+layout: page
 ---
 
 {% for tag in site.tags %}
