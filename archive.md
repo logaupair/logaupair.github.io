@@ -1,6 +1,6 @@
 ---
 title: Archive
-permalink: "/posts/"
+permalink: "/archive/"
 bg: archiv.jpg
 crawlertitle: All articles of LogAupair
 summary: All articles of LogAupair
