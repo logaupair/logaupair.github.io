@@ -29,7 +29,7 @@ C-notes by the layers, true fuckin players
 
 
 
-[![railroad]({{ site.images }}/rails.jpg)]({{ site.images }}/rails.jpg)
+[![railroad]({{ site.upload_dir }}/test-image.jpg)]({{ site.upload_dir }}/test-image.jpg)
 
 If you've already read all those titles and you feel pretty comfortable with the topics they cover, it's time we dive into the evolution of JS to explore all the changes coming not only soon but farther over the horizon.
 

@@ -15,7 +15,7 @@ author: awesome Franz
 Yo was geht ab girls YOLO
 
 
-[![railroad]({{ site.images }}/kinder.jpg)]({{ site.images }}/kinder.jpg)
+[![railroad]({{ site.upload_dir }}/kinder.jpg)]({{ site.upload_dir }}/kinder.jpg)
 
 so schön trallalala
 
