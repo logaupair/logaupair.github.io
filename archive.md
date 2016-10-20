@@ -1,7 +1,7 @@
 ---
 title: Archive
 permalink: "/posts/"
-bg: logaupairbg.jpg
+bg: archiv.jpg
 layout: page
 crawlertitle: All articles
 summary: Posts about jekyll
