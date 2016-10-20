@@ -32,12 +32,6 @@ compress_html:
   endings: all
 sass:
   sass_dir: assets/_sass
-social:
-Field name:
-
-#
-# custom variables
-#
-
-# directory for uploading files for post usage
+social: 
+Field name: 
 upload_dir: "/uploads"
