@@ -9,11 +9,10 @@ collections:
     title: Uploads
     output: true
 email: franziska.klamm@googlemail.com
-description:
-  12 months as a speech therapist / aupair in the US
-baseurl:
+description: 12 months as a speech therapist / aupair in the US
+baseurl: 
 lang: en
-url:
+url: 
 github_username: logaupair
 disqus_username: logaupair-github-io
 markdown: kramdown
