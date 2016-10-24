@@ -5,6 +5,7 @@ bg: image2.jpg
 summary: Jetlag and squirrels
 author: LogAupair
 layout: post
+tags: life
 ---
 
 It has been two days now since I arrived in a small town in Westchester County to spend my aupair year abroad. My flight via Zurich to JFK Airport was less exhausting than expected but I had to get along these days with jetlag - means waking up around 4:30 and already getting tired in the early evening from that moment on it turned dark.
