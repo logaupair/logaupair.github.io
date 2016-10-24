@@ -6,6 +6,7 @@ summary: Jetlag and squirrels
 author: LogAupair
 layout: post
 tags: ['usa']
+crawlertitle: "First weekend aupair in the usa"
 categories: posts
 ---
 
