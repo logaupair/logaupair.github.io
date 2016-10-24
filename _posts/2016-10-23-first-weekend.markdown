@@ -14,6 +14,6 @@ On Saturday the other aupair took me to 'the movies' and I was really impressed 
 
 This morning I got the chance to take a little walk through the neighbourhood. Because all the land is privatised there are everywhere large trees which make you feel like living in a forest. It was truly beautiful because all the leaves turned golden and red. Also, some cute squirrels were running through the gardens but unfortunately I had no chance to take a picture of them. Maybe next time…
 
-[!\[Water\]({{ site.upload_dir }}/uploads/image1.JPG)\]({{ site.upload_dir }}/uploads/image1.JPG)
-[!\[Indian Summer\]({{ site.upload_dir }}/uploads/image2.JPG)\]({{ site.upload_dir }}/uploads/image2.JPG)
-[!\[Welcome\]({{ site.upload_dir }}/uploads/image3.JPG)\]({{ site.upload_dir }}/uploads/image3.JPG)
+[![Water]({{ site.upload_dir }}/uploads/image1.JPG)]({{ site.upload_dir }}/uploads/image1.JPG)
+[![Indian Summer]({{ site.upload_dir }}/uploads/image2.JPG)]({{ site.upload_dir }}/uploads/image2.JPG)
+[![Welcome]({{ site.upload_dir }}/uploads/image3.JPG)]({{ site.upload_dir }}/uploads/image3.JPG)
