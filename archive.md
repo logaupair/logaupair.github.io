@@ -3,7 +3,7 @@ title: Archive
 permalink: "/archive/"
 bg: archiv.jpg
 crawlertitle: All articles of LogAupair
-summary: All articles of LogAupair
+summary: review
 active: archive
 layout: page
 ---
