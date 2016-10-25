@@ -10,7 +10,7 @@ summary: 12 months as a speech therapist / aupair in the US
   <article class="index-page">
     <a href="{{ post.url }}" class="index-link">
       <h2>{{ post.title }}</h2>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.content | strip_html | truncatewords:75 }}</p>
     <a/>
   </article>
 {% endfor %}
