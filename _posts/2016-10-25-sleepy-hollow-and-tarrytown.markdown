@@ -4,8 +4,7 @@ date: 2016-10-25 07:48:00 Z
 categories:
 - posts
 tags:
-- aupair life
-- photos
+- logaupair
 bg: 03lighthouse.jpg
 summary: Cemetery and lighthouse
 author: LogAupair
