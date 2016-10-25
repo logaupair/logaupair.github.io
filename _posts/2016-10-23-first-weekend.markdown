@@ -4,7 +4,8 @@ date: 2016-10-23 23:45:00 Z
 categories:
 - posts
 tags:
-- aupair life
+- aupair
+- life
 - photos
 bg: image2.jpg
 summary: Jetlag and squirrels
