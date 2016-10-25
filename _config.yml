@@ -33,3 +33,4 @@ sass:
 social: 
 Field name: 
 upload_dir: "/uploads"
+ga_tracking_id: "UA-86301745-1"
