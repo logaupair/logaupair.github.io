@@ -12,7 +12,7 @@ crawlertitle: Manhattan
 layout: post
 ---
 
-Today was just a short trip to NYC with too many impressions so I just show you some pictures I took:
+Today was just a short trip to NYC with too many impressions so I just show you some of the pictures I took:
 
 [![Grand Central Station]({{ site.images }}/uploads/05grandcentral.jpg)]({{ site.images }}/uploads/05grandcentral.jpg)
 [![Grand Central Station]({{ site.images }}/uploads/06grandcentral.jpg)]({{ site.images }}/uploads/06grandcentral.jpg)
