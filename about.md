@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-bg: blogabout.jpg
+bg: 10timessquare.jpg
 crawlertitle: About LogAupair
 summary: About LogAupair
 active: about
