@@ -5,7 +5,7 @@ categories:
 - posts
 tags:
 - LogAupair
-bg: neighborhood.jpg
+bg: nieghborhood.jpg
 summary: A walk around Mamaroneck
 author: LogAupair
 crawlertitle: Neighborhood
