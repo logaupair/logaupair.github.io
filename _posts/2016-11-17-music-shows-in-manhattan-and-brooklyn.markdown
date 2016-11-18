@@ -6,10 +6,10 @@ categories:
 - posts
 tags:
 - LogAupair
-bg: 
-summary: 
-author: 
-crawlertitle: 
+bg: foals2.jpg
+summary: FOALS, Sun Kil Moon, …
+author: LogAupair
+crawlertitle: Music Shows in Manhattan and Brooklyn
 layout: post
 ---
 
