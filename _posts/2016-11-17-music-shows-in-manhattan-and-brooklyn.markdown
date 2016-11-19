@@ -25,7 +25,7 @@ This was surprising from every point of view. The show was in northern Manhattan
 # 10 Nov // Sun Kil Moon + Jesu // Warsaw Ballroom
 This time I took the train which was so much better. The show was in a small venue in Williamsburg and it was very easy to get there by metro. Williamsburg, Brooklyn is very beautiful, less busy than Manhattan and a lot of small stores, bars and restaurants. When I arrived at the Warsaw Ballroom the show already had begun. Mark Kozelek was singing an elegy about the presidential election and continued with songs from the new album and a dedication to Leonard Cohen who had just passed away on that day. The show was crowded by many young and hip people and much more familiar than the FOALS concert of the week before.
 
-[![Metro]({{ site.images }}/uploads/metro-fd0a3f.jpg)]({{ site.images }}/uploads/metro-fd0a3f.jpg)
+[![Metro]({{ site.images }}/uploads/metro.jpg)]({{ site.images }}/uploads/metro.jpg)
 [![Metro]({{ site.images }}/uploads/metro2.jpg)]({{ site.images }}/uploads/metro2.jpg)
 [![Brooklyn]({{ site.images }}/uploads/brooklyn2.jpg)]({{ site.images }}/uploads/brooklyn2.jpg)
 [![Sun Kil Moon]({{ site.images }}/uploads/sunkilmoon.jpg)]({{ site.images }}/uploads/sunkilmoon.jpg)
