@@ -1,12 +1,11 @@
 ---
 title: Music Shows in Manhattan and Brooklyn
 date: 2016-11-17 21:11:00 -05:00
-published: false
 categories:
 - posts
 tags:
 - LogAupair
-bg: foals2.jpg
+bg: cutworms-923af8.jpg
 summary: FOALS, Sun Kil Moon, …
 author: LogAupair
 crawlertitle: Music Shows in Manhattan and Brooklyn
@@ -26,6 +25,20 @@ This was surprising from every point of view. The show was in northern Manhattan
 # 10 Nov // Sun Kil Moon + Jesu // Warsaw Ballroom
 This time I took the train which was so much better. The show was in a small venue in Williamsburg and it was very easy to get there by metro. Williamsburg, Brooklyn is very beautiful, less busy than Manhattan and a lot of small stores, bars and restaurants. When I arrived at the Warsaw Ballroom the show already had begun. Mark Kozelek was singing an elegy about the presidential election and continued with songs from the new album and a dedication to Leonard Cohen who had just passed away on that day. The show was crowded by many young and hip people and much more familiar than the FOALS concert of the week before.
 
+[![Metro]({{ site.images }}/uploads/metro-fd0a3f.jpg)]({{ site.images }}/uploads/metro-fd0a3f.jpg)
+[![Metro]({{ site.images }}/uploads/metro2.jpg)]({{ site.images }}/uploads/metro2.jpg)
+[![Brooklyn]({{ site.images }}/uploads/brooklyn2.jpg)]({{ site.images }}/uploads/brooklyn2.jpg)
+[![Sun Kil Moon]({{ site.images }}/uploads/sunkilmoon.jpg)]({{ site.images }}/uploads/sunkilmoon.jpg)
 
 # 12 Nov // Cut Worms + Nassau + Ben Seretan // Union Pool
 Only two days later I, again, set out for Brooklyn by train and went to a 10 $ Show at Union Pool. That place was a little bar with a Taco Truck in the backyard. Great music shows, great bar and I met super friendly people from Chile who showed me more of Williamsburg after the concert.
+
+[![Union Pool]({{ site.images }}/uploads/unionpools.jpg)]({{ site.images }}/uploads/unionpools.jpg)
+[![Nassau]({{ site.images }}/uploads/nassau-ac5964.jpg)]({{ site.images }}/uploads/nassau-ac5964.jpg)
+[![Cut Worms]({{ site.images }}/uploads/cutworms-923af8.jpg)]({{ site.images }}/uploads/cutworms-923af8.jpg)
+[![Night]({{ site.images }}/uploads/nightbrooklyn.jpg
+)]({{ site.images }}/uploads/nightbrooklyn.jpg
+)
+[![Bar]({{ site.images }}/uploads/bar.jpg
+)]({{ site.images }}/uploads/bar.jpg
+)
