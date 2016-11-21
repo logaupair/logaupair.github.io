@@ -21,6 +21,8 @@ This was surprising from every point of view. The show was in northern Manhattan
 [![Foals]({{ site.images }}/uploads/foals.jpg)]({{ site.images }}/uploads/foals.jpg)
 [![Foals]({{ site.images }}/uploads/foals2.jpg)]({{ site.images }}/uploads/foals2.jpg)
 [![Foals]({{ site.images }}/uploads/foals3.jpg)]({{ site.images }}/uploads/foals3.jpg)
+<iframe src="https://player.vimeo.com/video/190342747" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/190342747">FOALS - Spanish Sahara @ United Palace NY 11/04/2016</a> from <a href="https://vimeo.com/darnstotheradio">Franzi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 # 10 Nov // Sun Kil Moon + Jesu // Warsaw Ballroom
 This time I took the train which was so much better. The show was in a small venue in Williamsburg and it was very easy to get there by metro. Williamsburg, Brooklyn is very beautiful, less busy than Manhattan and a lot of small stores, bars and restaurants. When I arrived at the Warsaw Ballroom the show already had begun. Mark Kozelek was singing an elegy about the presidential election and continued with songs from the new album and a dedication to Leonard Cohen who had just passed away on that day. The show was crowded by many young and hip people and much more familiar than the FOALS concert of the week before.
