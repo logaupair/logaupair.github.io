@@ -21,7 +21,7 @@ This was surprising from every point of view. The show was in northern Manhattan
 [![Foals]({{ site.images }}/uploads/foals.jpg)]({{ site.images }}/uploads/foals.jpg)
 [![Foals]({{ site.images }}/uploads/foals2.jpg)]({{ site.images }}/uploads/foals2.jpg)
 [![Foals]({{ site.images }}/uploads/foals3.jpg)]({{ site.images }}/uploads/foals3.jpg)
-<iframe src="https://player.vimeo.com/video/190342747" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/190342747" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/190342747">FOALS - Spanish Sahara @ United Palace NY 11/04/2016</a> from <a href="https://vimeo.com/darnstotheradio">Franzi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 # 10 Nov // Sun Kil Moon + Jesu // Warsaw Ballroom
